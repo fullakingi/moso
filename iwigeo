@@ -8,7 +8,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "#ff8000",
-        "fill-opacity": 0.5
+        "fill-opacity": 0.5,
+        "Rohe": "TeTauIhu"
       },
       "geometry": {
         "type": "Polygon",
@@ -329,7 +330,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "#00b6ed",
-        "fill-opacity": 0.3
+        "fill-opacity": 0.3,
+        "Rohe": "Waipounamu"
       },
       "geometry": {
         "type": "Polygon",
@@ -814,7 +816,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "#ff40ff",
-        "fill-opacity": 0.2
+        "fill-opacity": 0.2,
+        "Rohe": "Takitimu"
       },
       "geometry": {
         "type": "Polygon",
@@ -995,7 +998,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "#ff2600",
-        "fill-opacity": 0.2
+        "fill-opacity": 0.2,
+        "Rohe": "TeArawa"
       },
       "geometry": {
         "type": "Polygon",
@@ -1100,7 +1104,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "#932092",
-        "fill-opacity": 0.2
+        "fill-opacity": 0.2,
+        "Rohe": "Mataatua"
       },
       "geometry": {
         "type": "Polygon",
@@ -1308,7 +1313,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "#0432ff",
-        "fill-opacity": 0.2
+        "fill-opacity": 0.2,
+        "Rohe": "TeUpokooTeIka"
       },
       "geometry": {
         "type": "Polygon",
@@ -1425,7 +1431,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "#00fcff",
-        "fill-opacity": 0.2
+        "fill-opacity": 0.2,
+        "Rohe": "Taranaki"
       },
       "geometry": {
         "type": "Polygon",
@@ -1562,7 +1569,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "#000000",
-        "fill-opacity": 0.2
+        "fill-opacity": 0.2,
+        "Rohe": "TaurangaMoana"
       },
       "geometry": {
         "type": "Polygon",
@@ -1607,7 +1615,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "#00f900",
-        "fill-opacity": 0.2
+        "fill-opacity": 0.2,
+        "Rohe": "WaikatoTainui"
       },
       "geometry": {
         "type": "Polygon",
@@ -1736,7 +1745,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "#aa7941",
-        "fill-opacity": 0.2
+        "fill-opacity": 0.2,
+        "Rohe": "Hauraki"
       },
       "geometry": {
         "type": "Polygon",
@@ -1825,7 +1835,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "#fefb00",
-        "fill-opacity": 0.2
+        "fill-opacity": 0.2,
+        "Rohe": "Tamaki"
       },
       "geometry": {
         "type": "Polygon",
@@ -1930,7 +1941,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "#932092",
-        "fill-opacity": 0.2
+        "fill-opacity": 0.2,
+        "Rohe": "TeTaiTokerau"
       },
       "geometry": {
         "type": "Polygon",
